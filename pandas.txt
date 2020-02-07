@@ -1,0 +1,2 @@
+series: like a numpy array.
+dataframe is a table where each column is a series
